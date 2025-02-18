@@ -25,7 +25,7 @@
 [TrabalhoFinal_DefinirEquipes]: <TODO:> "TrabalhoFinal_DefinirEquipes"
 [TrabalhoFinal_entrega]: <TODO:> "TrabalhoFinal_entrega"
 
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=43859&section=1> "Plano de Ensino"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=47886&section=1> "Plano de Ensino"  
 
 <!-- Cronograma da planilha-->
 <!-- [@]TODO:INICIO atualizar -->
