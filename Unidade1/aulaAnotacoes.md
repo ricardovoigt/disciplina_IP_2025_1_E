@@ -3,7 +3,7 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=47886&section=1> "Plano de Ensino"  
 [Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
 [Monitoria]: <https://www.icloud.com/numbers/0d1vcb8BP5o91bzCLfwnVv80w#Monitores_2025_1> "Monitoria"  
 
