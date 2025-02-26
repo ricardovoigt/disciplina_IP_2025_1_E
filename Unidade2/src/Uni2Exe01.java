@@ -17,6 +17,8 @@ public class Uni2Exe01 {
         // Saída
         System.out.println("Soma: " + soma);
 
+        System.out.println(Math.pow(2, 3));
+
         teclado.close();
     }
 }
