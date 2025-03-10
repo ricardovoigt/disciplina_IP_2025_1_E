@@ -5,7 +5,7 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://bcwd.me/d-14111](<https://bcwd.me/d-13196> "https://bcwd.me/d-14111")  
+[https://bcwd.me/d-14111](<https://bcwd.me/d-14111> "https://bcwd.me/d-14111")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_1_E**.  
