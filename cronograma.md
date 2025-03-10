@@ -177,7 +177,7 @@ Fontes: [src](Unidade4/src "src")
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf");  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
   
-### [Aula_17](Unidade4/aulaAnotacoes.md#Aula_17 “ 25-03-2025 terça-feira ") 25-03-2025 terça-feira
+### [Aula_17](Unidade4/aulaAnotacoes.md#Aula_17 " 25-03-2025 terça-feira ") 25-03-2025 terça-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
