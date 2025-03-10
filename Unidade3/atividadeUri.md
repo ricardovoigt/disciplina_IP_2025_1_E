@@ -8,7 +8,7 @@ Bom, agora vocês devem acessar o link
 [https://bcwd.me/d-14111](<https://bcwd.me/d-13196> "https://bcwd.me/d-14111")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_2_A**.  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_1_E**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
 Assim que acessar a disciplina informe a seguinte chave de acesso (token): tLYc5jl  
