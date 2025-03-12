@@ -1,5 +1,5 @@
 /*
-__ Enunciado: https://github.com/dalton-reis/disciplinaIpMat/blob/main/Unidade3/atividadeAula.md#uni3exe03java
+__ Enunciado: 
 Um motorista deseja abastecer seu tanque de combustível. Escreva
 um programa para ler o preço do litro da gasolina e o valor do pagamento e
 exibir quantos litros ele conseguiu colocar no tanque. 
