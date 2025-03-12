@@ -135,20 +135,7 @@ Feriado: Carnaval
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
   
-### [Aula_13](Unidade4/aulaAnotacoes.md#Aula_13 " 18-03-2025 terça-feira ") 18-03-2025 terça-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
-<!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
-- **liberar material** da próxima unidade (4).  
-<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
-  
-### [Aula_14](Unidade4/aulaAnotacoes.md#Aula_14 " 18-03-2025 terça-feira ") 18-03-2025 terça-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
-  
-### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:   18-03-2025 terça-feira
+### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:   16-03-2025 domingo
   
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri");  
 - [atividadeAula](Unidade3/atividadeAula.md "atividadeAula");  
@@ -161,10 +148,25 @@ Feriado: Carnaval
   
 Ementa - comandos de controle de fluxo (seleção): simples(se - `if`), encadeada (se-senão - `if - else`) e múltipla (escolha - `switch - case`).  
 Fontes: [src](Unidade4/src "src")  
-  
-### [Aula_15](Unidade4/aulaAnotacoes.md#Aula_15 " 19-03-2025 quarta-feira ") 19-03-2025 quarta-feira
+
+### [Aula_13](Unidade4/aulaAnotacoes.md#Aula_13 " 18-03-2025 terça-feira ") 18-03-2025 terça-feira
   
 **Atenção**: os arquivos a serem postados são somente os Uni4ExeXX.java (onde XX é o número do exercício). Lembre que os arquivos devem ser zipados (ZIP) em blocos, pois o AVA3 tem um limite máximo de envio 20 arquivos.  
+  
+- comandos de controle de fluxo: seleção;  
+  - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
+    - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
+  
+### [Aula_14](Unidade4/aulaAnotacoes.md#Aula_14 " 18-03-2025 terça-feira ") 18-03-2025 terça-feira
+  
+- demonstração de exemplos: Java e VSCode;  
+- comandos de controle de fluxo: seleção;  
+  - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
+    - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse"). 
+
+### [Aula_15](Unidade4/aulaAnotacoes.md#Aula_15 " 19-03-2025 quarta-feira ") 19-03-2025 quarta-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
