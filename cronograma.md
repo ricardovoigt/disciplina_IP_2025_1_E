@@ -203,11 +203,7 @@ Fontes: [src](Unidade4/src "src")
   
 ### [Aula_21](Unidade4/aulaAnotacoes.md#Aula_21 " 02-04-2025 quarta-feira ") 02-04-2025 quarta-feira
   
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
-  
-### [Aula_22](Unidade4/aulaAnotacoes.md#Aula_22 " 08-04-2025 terça-feira ") 08-04-2025 terça-feira
-  
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
+- Revisão prova 1
   
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:   07-04-2025 segunda-feira
   
@@ -218,28 +214,23 @@ Fontes: [src](Unidade4/src "src")
 -----------  
   
 ## [Prova1](Prova1 "Prova1")  
+
+### [Aula_22](Unidade4/aulaAnotacoes.md#Aula_22 " 08-04-2025 terça-feira ") 08-04-2025 terça-feira
   
+- Prova1  
+<!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
+
 ### [Aula_23](Unidade4/aulaAnotacoes.md#Aula_23 " 08-04-2025 terça-feira ") 08-04-2025 terça-feira
-  
-- revisão Prova1  
-<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->  
-  
-### [Aula_24](Unidade4/aulaAnotacoes.md#Aula_24 " 09-04-2025 quarta-feira ") 09-04-2025 quarta-feira
   
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
   
-### [Aula_25](Unidade4/aulaAnotacoes.md#Aula_25 " 15-04-2025 terça-feira ") 15-04-2025 terça-feira
-  
-- Prova1  
-<!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
-  
-### [Aula_26](Unidade5/aulaAnotacoes.md#Aula_26 " 15-04-2025 terça-feira ") 15-04-2025 terça-feira
+### [Aula_24](Unidade4/aulaAnotacoes.md#Aula_24 " 09-04-2025 quarta-feira ") 09-04-2025 quarta-feira
   
 - correção Prova1  
 - **liberar material** da próxima unidade (5).  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->  
-  
+   
 ### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:   14-04-2025 segunda-feira
   
 - assistir as videoaulas da Unidade5;  
@@ -252,7 +243,19 @@ Fontes: [src](Unidade4/src "src")
   
 Ementa - comandos de controle de fluxo (Repetição): enquanto (`while`), para (`for`) e faça enquanto (`do - while`).  
 Fontes: [src](Unidade5/src "src")  
+
+### [Aula_25](Unidade5/aulaAnotacoes.md#Aula_25 " 15-04-2025 terça-feira ") 15-04-2025 terça-feira
   
+- comandos de controle de fluxo: repetição;  
+  - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
+  
+### [Aula_26](Unidade5/aulaAnotacoes.md#Aula_26 " 15-04-2025 terça-feira ") 15-04-2025 terça-feira
+
+- comandos de controle de fluxo: repetição;  
+  - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
+
 ### [Aula_27](Unidade5/aulaAnotacoes.md#Aula_27 " 16-04-2025 quarta-feira ") 16-04-2025 quarta-feira
   
 - comandos de controle de fluxo: repetição;  
