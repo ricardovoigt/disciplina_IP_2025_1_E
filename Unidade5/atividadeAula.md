@@ -36,7 +36,7 @@ Descreva um algoritmo que calcule e escreva a soma dos números pares e a soma d
 
 Descreva um algoritmo que calcule e escreva a soma da seguinte série de 100 termos:  
 
-  ![\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100](https://latex.codecogs.com/svg.latex?\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100})  
+  ![\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100}](https://latex.codecogs.com/svg.latex?\normalsize&space;\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100})  
 
 Pense no resultado!
 
