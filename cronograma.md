@@ -279,11 +279,7 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Aula_30](Unidade5/aulaAnotacoes.md#Aula_30 " 23-04-2025 quarta-feira ") 23-04-2025 quarta-feira
   
-- comandos de controle de fluxo: repetição;  
-  - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
-  - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+- Métodos e funções em Java
 <!-- conversa com os alunos (individualmente) -->  
 - **liberar material** da próxima unidade (6).  
   
@@ -298,15 +294,7 @@ Fontes: [src](Unidade5/src "src")
 ### [Aula_33](Unidade5/aulaAnotacoes.md#Aula_33 " 30-04-2025 quarta-feira ") 30-04-2025 quarta-feira
   
 [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
-  
-### [Aula_34](Unidade5/aulaAnotacoes.md#Aula_34 " 06-05-2025 terça-feira ") 06-05-2025 terça-feira
-  
-- comandos de controle de fluxo: repetição;  
-  - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
-  - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
-  
+
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:   05-05-2025 segunda-feira
   
 <!-- FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
@@ -316,13 +304,17 @@ Fontes: [src](Unidade5/src "src")
 <!-- [ ] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->  
   
 -----------  
-### [Aula_34](Unidade6/aulaAnotacoes.md#Aula_34 " 06-05-2025 terça-feira ") 06-05-2025 terça-feira
   
 ## [Unidade6](Unidade6 "Unidade6")  
   
 Ementa - tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
-Fontes: [src](Unidade6/src "src")  
+Fontes: [src](Unidade6/src "src") 
+
+### [Aula_34](Unidade6/aulaAnotacoes.md#Aula_34 " 06-05-2025 terça-feira ") 06-05-2025 terça-feira
   
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+
 ### [Aula_35](Unidade6/aulaAnotacoes.md#Aula_35 " 07-05-2025 quarta-feira ") 07-05-2025 quarta-feira
   
   [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
@@ -346,63 +338,55 @@ Fontes: [src](Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
   
-### [Aula_39](Unidade6/aulaAnotacoes.md#Aula_39 " 20-05-2025 terça-feira ") 20-05-2025 terça-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-  
-### [Aula_40](Unidade7/aulaAnotacoes.md#Aula_40 " 20-05-2025 terça-feira ") 20-05-2025 terça-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-  
-### [Aula_41](Unidade7/aulaAnotacoes.md#Aula_41 " 21-05-2025 quarta-feira ") 21-05-2025 quarta-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-  
-### [Aula_42](Unidade7/aulaAnotacoes.md#Aula_42 " 27-05-2025 terça-feira ") 27-05-2025 terça-feira
-  
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-<!-- - liberar exercícios unidade 5 e 6.  -->  
-  
 -----------  
   
 ## [Prova2](Prova2 "Prova2")  
   
-### [Aula_43](Unidade6/aulaAnotacoes.md#Aula_43 " 27-05-2025 terça-feira ") 27-05-2025 terça-feira
+### [Aula_39](Unidade6/aulaAnotacoes.md#Aula_39 " 20-05-2025 terça-feira ") 20-05-2025 terça-feira
   
-- revisão Prova2  
-<!-- [ ] Aviso: Prova2: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83175633> -->  
+- Prova2  
+<!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->   
   
-### [Aula_44](Unidade6/aulaAnotacoes.md#Aula_44 " 28-05-2025 quarta-feira ") 28-05-2025 quarta-feira
+### [Aula_40](Unidade6/aulaAnotacoes.md#Aula_40 " 20-05-2025 terça-feira ") 20-05-2025 terça-feira
   
 - Prova2  
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
-  
-### [Aula_45](Unidade6/aulaAnotacoes.md#Aula_45 " 03-06-2025 terça-feira ") 03-06-2025 terça-feira
-  
-- Prova2  
-<!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->  
-  
-### [Aula_46](TrabalhoFinal/aulaAnotacoes.md#Aula_46 " 03-06-2025 terça-feira ") 03-06-2025 terça-feira
-  
-- correção Prova2  
-<!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->  
-<!-- [ ] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->  
   
 -----------  
   
 ## [TrabalhoFinal](TrabalhoFinal "TrabalhoFinal")  
   
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
-  
-### [Aula_47](TrabalhoFinal/aulaAnotacoes.md#Aula_47 " 04-06-2025 quarta-feira ") 04-06-2025 quarta-feira
+
+### [Aula_41](TrabalhoFinal/aulaAnotacoes.md#Aula_41 " 21-05-2025 quarta-feira ") 21-05-2025 quarta-feira
   
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->  
 - enunciado do [TrabalhoFinal](TrabalhoFinal “TrabalhoFinal”)  
 - Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
+
+### [Aula_42](TrabalhoFinal/aulaAnotacoes.md#Aula_42 " 27-05-2025 terça-feira ") 27-05-2025 terça-feira
+  
+- desenvolvimento do trabalho final.
+
+### [Aula_43](TrabalhoFinal/aulaAnotacoes.md#Aula_43 " 27-05-2025 terça-feira ") 27-05-2025 terça-feira
+  
+- desenvolvimento do trabalho final.
+  
+### [Aula_44](TrabalhoFinal/aulaAnotacoes.md#Aula_44 " 28-05-2025 quarta-feira ") 28-05-2025 quarta-feira
+  
+- desenvolvimento do trabalho final.
+  
+### [Aula_45](TrabalhoFinal/aulaAnotacoes.md#Aula_45 " 03-06-2025 terça-feira ") 03-06-2025 terça-feira
+  
+- desenvolvimento do trabalho final.
+  
+### [Aula_46](TrabalhoFinal/aulaAnotacoes.md#Aula_46 " 03-06-2025 terça-feira ") 03-06-2025 terça-feira
+  
+- desenvolvimento do trabalho final. 
+
+### [Aula_47](TrabalhoFinal/aulaAnotacoes.md#Aula_47 " 04-06-2025 quarta-feira ") 04-06-2025 quarta-feira
+  
+- desenvolvimento do trabalho final.  
   
 ### [Aula_48](TrabalhoFinal/aulaAnotacoes.md#Aula_48 " 10-06-2025 terça-feira ") 10-06-2025 terça-feira
   
