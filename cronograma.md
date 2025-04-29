@@ -276,24 +276,9 @@ Fontes: [src](Unidade5/src "src")
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoWhile](Unidade5/atividadeAula.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
-  
-### [Aula_30](Unidade5/aulaAnotacoes.md#Aula_30 " 23-04-2025 quarta-feira ") 23-04-2025 quarta-feira
-  
-- Métodos e funções em Java
-<!-- conversa com os alunos (individualmente) -->  
-- **liberar material** da próxima unidade (6).  
-  
-### [Aula_31](Unidade5/aulaAnotacoes.md#Aula_31 " 29-04-2025 terça-feira ") 29-04-2025 terça-feira
-  
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
-  
-### [Aula_32](Unidade5/aulaAnotacoes.md#Aula_32 " 29-04-2025 terça-feira ") 29-04-2025 terça-feira
-  
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
-  
-### [Aula_33](Unidade5/aulaAnotacoes.md#Aula_33 " 30-04-2025 quarta-feira ") 30-04-2025 quarta-feira
-  
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+- **liberar material** da próxima unidade (6).
+ 
+
 
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:   05-05-2025 segunda-feira
   
@@ -307,11 +292,31 @@ Fontes: [src](Unidade5/src "src")
   
 ## [Unidade6](Unidade6 "Unidade6")  
   
-Ementa - tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
+Ementa: 
+- Métodos e funçãoes
+- Tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
 Fontes: [src](Unidade6/src "src") 
+
+### [Aula_30](Unidade6/aulaAnotacoes.md#Aula_30 " 23-04-2025 quarta-feira ") 23-04-2025 quarta-feira
+  
+- Métodos e funções em Java
+- demonstração de exemplos: Java e VSCode;
+  
+### [Aula_31](Unidade6/aulaAnotacoes.md#Aula_31 " 29-04-2025 terça-feira ") 29-04-2025 terça-feira
+  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+  
+### [Aula_32](Unidade6/aulaAnotacoes.md#Aula_32 " 29-04-2025 terça-feira ") 29-04-2025 terça-feira
+  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+  
+### [Aula_33](Unidade6/aulaAnotacoes.md#Aula_33 " 30-04-2025 quarta-feira ") 30-04-2025 quarta-feira
+  
+[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
 
 ### [Aula_34](Unidade6/aulaAnotacoes.md#Aula_34 " 06-05-2025 terça-feira ") 06-05-2025 terça-feira
   
+- Tipos estruturados e vetores
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
