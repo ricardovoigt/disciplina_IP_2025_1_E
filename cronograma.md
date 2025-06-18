@@ -421,11 +421,6 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
   
 - apresentação Trabalho Final.  
   
-### [Aula_54](TrabalhoFinal/aulaAnotacoes.md#Aula_54 " 24-06-2025 terça-feira ") 24-06-2025 terça-feira
-  
-- apresentação Trabalho Final.  
-<!-- [ ] Aviso: Trabalho Final: prorrogação <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63749736> -->  
-  
 -----------  
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->  
 Último dia para entregar os diários de classe 2025/1: 18/06/25 - 02/07/25  
